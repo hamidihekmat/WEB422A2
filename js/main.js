@@ -1,6 +1,13 @@
-// @author Hekmat Hamidi
-// @studentID 132645169
-// @date 01/28/2020
+/*********************************************************************************
+ *  WEB422 – Assignment 2
+ *  I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+ *  No part of this assignment has been copied manually or electronically from any other source
+ *  (including web sites) or distributed to other students.
+ *
+ *  Name: Hekmat Hamidi Student ID: 132645169 Date: 01/28/2020
+ *
+ *
+ ********************************************************************************/
 
 // Variables
 let restaurantData = [];
